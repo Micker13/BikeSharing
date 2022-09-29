@@ -3,7 +3,7 @@
 ##Overview
 
 Tableau output can be found at the following 
-[link](https://10az.online.tableau.com/#/site/micker216/views/NYCBikeAnalysis/NYCBikeAnalysis?:iid=1)
+[link](https://public.tableau.com/views/TableauExercise_16644238386620/NYCBikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 This project was focused on evaluating bikeshare data available from Citibike for New York City rental bikeshare usage.  The outcome of this work will be used to evaluate the upcoming program for Des Moines, Iowa.  The main questions this will be used to answer who uses the system the most, impact of users vs subscribers, locations of top usages, and how often certain bikes are used.
 
